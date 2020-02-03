@@ -1,0 +1,117 @@
+body{
+	font-family:"Roboto",sans-serif;
+	font-size: 24px;
+	font-weight: 200;
+}
+main{
+	
+	
+}
+
+.body{
+	background-color: white;
+	float: right;
+}
+
+.content{
+	background-color:white;
+	float: left;
+	padding-right: 10px;
+	padding-top: 10px;
+	margin-right: 50px;
+
+}
+.nav-com{
+	border-style:solid;
+	padding: 5px 10px 5px 0px;
+	border-color: #008073;
+	background-color: #008073;
+	color:white;
+	margin-right: 0px;
+	margin-left: 190px;*/
+
+}
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:white;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: grey;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: lightgrey;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  font-size: 28px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+#dmw{
+	padding-left: 20px;
+}
+h2 {
+  border-left: 6px solid #008073;
+  background-color:none;
+  margin-left: 200px;
+}
+p{
+	padding-left: 20px;
+	margin-left: 200px;
+}
+/*img{
+	border-left: 2px solid rgba(0,0,0,0.1);
+	width: 80%;
+	height:auto;
+	position: relative;
+	display: flex;
+}*/
+main{
+	border-left: 2px solid rgba(0,0,0,0.1);
+}
+.experience{
+	width: inherit;
+	height:500px;
+	padding-top: 50px;
+	background-color: white;
+}
+.expi{
+	width:800px;
+	height:500px;
+	background-color: #fafafa;
+	margin-left: 400px;
+	padding-left: 50px;
+	}
+	img{
+		width: 100%;
+	}
+	h6 ,h2{
+	font-family:"Roboto",sans-serif;
+	font-weight: 200;
+}
+
+	
